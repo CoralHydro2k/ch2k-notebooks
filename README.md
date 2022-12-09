@@ -1,2 +1,2 @@
 # ch2k-notebooks
-Jupyter notebooks on the CoralHydro2k dataset.
+Jupyter notebooks demonstrating how to ingest, explore and visualize the CoralHydro2k dataset.
